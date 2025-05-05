@@ -1,0 +1,11 @@
+﻿  Estudo.cpp
+F:\Senac\3° Semestre\Estrutura de Dados\Estudos\Estudos\Estudo.cpp(45,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+F:\Senac\3° Semestre\Estrutura de Dados\Estudos\Estudos\Estudo.cpp(115,11): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+      F:\Senac\3° Semestre\Estrutura de Dados\Estudos\Estudos\Estudo.cpp(115,11):
+      espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+      F:\Senac\3° Semestre\Estrutura de Dados\Estudos\Estudos\Estudo.cpp(115,11):
+      o argumento variadic 2 ausente é requerido pela cadeia de formato '%s'
+      F:\Senac\3° Semestre\Estrutura de Dados\Estudos\Estudos\Estudo.cpp(115,11):
+      esse argumento é usado como um tamanho do buffer
+  
+  Estudos.vcxproj -> F:\Senac\3° Semestre\Estrutura de Dados\Estudos\x64\Debug\Estudos.exe

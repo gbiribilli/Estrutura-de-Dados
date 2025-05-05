@@ -1,0 +1,3 @@
+﻿  ADO09.cpp
+F:\Senac\Estudos\3° Semestre\Estrutura de Dados\ADO09\ADO09\ADO09.cpp(167,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  ADO09.vcxproj -> F:\Senac\Estudos\3° Semestre\Estrutura de Dados\ADO09\x64\Debug\ADO09.exe

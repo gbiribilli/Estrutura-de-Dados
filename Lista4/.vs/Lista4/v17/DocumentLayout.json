@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\Estrutura de Dados\\Lista4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{646C2101-A5F0-4194-B186-65C437F82A34}|Lista4\\Lista4.vcxproj|F:\\Senac\\Estudos\\3\u00B0 Semestre\\Estrutura de Dados\\Lista4\\Lista4\\Lista4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{646C2101-A5F0-4194-B186-65C437F82A34}|Lista4\\Lista4.vcxproj|solutionrelative:Lista4\\Lista4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista4.cpp",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\Estrutura de Dados\\Lista4\\Lista4\\Lista4.cpp",
+              "RelativeDocumentMoniker": "Lista4\\Lista4.cpp",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\Estrutura de Dados\\Lista4\\Lista4\\Lista4.cpp",
+              "RelativeToolTip": "Lista4\\Lista4.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T17:23:01.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

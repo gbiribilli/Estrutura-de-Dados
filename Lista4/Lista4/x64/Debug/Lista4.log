@@ -1,0 +1,4 @@
+﻿  Lista4.cpp
+F:\Senac\Estudos\3° Semestre\Estrutura de Dados\Lista4\Lista4\Lista4.cpp(87,9): warning C4101: 'chave': variável local não referenciada
+F:\Senac\Estudos\3° Semestre\Estrutura de Dados\Lista4\Lista4\Lista4.cpp(84,9): warning C4101: 'i': variável local não referenciada
+  Lista4.vcxproj -> F:\Senac\Estudos\3° Semestre\Estrutura de Dados\Lista4\x64\Debug\Lista4.exe

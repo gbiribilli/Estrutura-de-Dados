@@ -1,0 +1,4 @@
+﻿  ADO8.cpp
+F:\Senac\Estudos\3° Semestre\Estrutura de Dados\ADO8\ADO8\ADO8.cpp(165,9): warning C4101: 'chave': variável local não referenciada
+F:\Senac\Estudos\3° Semestre\Estrutura de Dados\ADO8\ADO8\ADO8.cpp(54,1): warning C4715: 'removerCaso1ou2': nem todos os caminhos de controle retornam um valor
+  ADO8.vcxproj -> F:\Senac\Estudos\3° Semestre\Estrutura de Dados\ADO8\x64\Debug\ADO8.exe
